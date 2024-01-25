@@ -1,0 +1,7 @@
+id_charge,type,Nom_resp,Prenom_resp
+1,menage    ,WADDAD,fatima
+2,ascenseurs,ALAMI ,omar
+3,eau       ,TAZI  ,abdelallah
+4,electricite,MELALI,anas
+5,jardin    ,sabiri,abdelkader
+6,securite  ,TAZI,abdelallah

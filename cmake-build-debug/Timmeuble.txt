@@ -1,0 +1,8 @@
+id_immeuble,nom,nbr_app,etage
+1,Eveln Barrera,8,4
+2,Brean William,6,3
+3,Ingam Phillips,6,3
+4,Gisel Cameron,8,4
+5,Grant Hickman,6,3
+6,dfghjkjj,0,0,
+7,mnjhu,olki,juhy,
